@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+
+gem "appium_capybara"
+gem "appium_lib"
+gem "cucumber"
+gem "capybara"
+gem "chromedriver-helper"
+gem "rspec"
+gem "rubocop"
+gem "selenium-webdriver"
